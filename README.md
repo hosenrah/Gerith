@@ -1,2 +1,2 @@
-# Gerith 
+# Gerith
 Genetic Algorithm – Calculus
